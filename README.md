@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+title: Welcome to the Mandy Meddock's homepage!
+description: Feel free to bookmark this to keep an eye on my project updates
 
 You can use the [editor on GitHub](https://github.com/mandymeddock/mandymeddock.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
